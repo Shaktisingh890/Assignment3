@@ -1,0 +1,11 @@
+C:\Users\shakt\source\repos\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\shakt\source\repos\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\HelpAssing3.exe
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\HelpAssing3.pdb
+C:\Users\shakt\source\repos\Assignment3\bin\Debug\HelpAssing3.exe.config
+C:\Users\shakt\source\repos\Assignment3\obj\Debug\Assignment3.csproj.CopyComplete
+C:\Users\shakt\source\repos\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\shakt\source\repos\Assignment3\obj\Debug\Assignment3.pdb
